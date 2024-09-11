@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=A7A7A7&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=A7A7A7&section=header&height=100">
 </div>
 
 <div align="center">
@@ -7,13 +7,9 @@
 </div>
 
 <div align="center">
-    <h1><strong>Sobre mim</strong></h1><br/>
-    <p>💬 Meu nome é Nattan Silva de Souza.</p>
-    <p>🔭 Cursando Análise e Desenvolvimento de Sistemas<br/> na Fatec de Mogi das Cruzes.<p>
+  <p>🔭 Cursando Análise e Desenvolvimento de Sistemas<br/> na Fatec de Mogi das Cruzes.<p>
 </div>
 
-
-</br></br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ethanhueh&show_icons=true&hide_border=true&bg_color=E7E7E7" alt="Anurag's GitHub stats" style="width: 55%; max-width: 300px; height: 185px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhueh&layout=donut&hide_border=true&bg_color=E7E7E7" alt="Top Langs" style="width: 40%; max-width: 300px; height: 185px"/>
@@ -42,10 +38,9 @@
   <h2>Redes sociais</h2>
   <a href="https://linkedin.com/in/nattan-silva-de-souza-9999822b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nattan-silva-de-souza-9999822b7" height="30" width="40" /></a>
   </br>
-  </br>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&section=footer&color=A7A7A7">
+  <img src="https://capsule-render.vercel.app/api?type=slice&section=footer&color=A7A7A7&height=100">
 </div>
 
