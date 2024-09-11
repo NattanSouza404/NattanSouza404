@@ -38,6 +38,7 @@
   <h2>Redes sociais</h2>
   <a href="https://linkedin.com/in/nattan-silva-de-souza-9999822b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nattan-silva-de-souza-9999822b7" height="30" width="40" /></a>
   </br>
+  </br>
 </div>
 
 <div align="center">
