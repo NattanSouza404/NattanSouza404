@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanhueh&show_icons=true&hide_border=true&bg_color=E7E7E7" alt="Anurag's GitHub stats" style="width: 55%; max-width: 300px; height: 185px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhueh&layout=donut&hide_border=true&bg_color=E7E7E7" alt="Top Langs" style="width: 40%; max-width: 300px; height: 185px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanhueh&show_icons=true&hide_border=true&bg_color=E7E7E7" alt="Anurag's GitHub stats" style="width: 55%; max-width: 300px; height: 200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhueh&hide_border=true&bg_color=E7E7E7" alt="Top Langs" style="width: 40%; max-width: 300px; height: 250px"/>
 </div>
 
 <div align="center">
