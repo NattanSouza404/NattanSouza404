@@ -23,11 +23,14 @@
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" style="height: 60px">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="height: 60px">
+  <img src="https://github.com/user-attachments/assets/dd171185-16ad-487a-aecc-1579502ad63d" alt="Node JS" style="height: 60px">
   <img src ="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="height: 60px">
+  <img src="https://github.com/user-attachments/assets/15dd9707-260b-4081-b896-dbff0ffac4f1" alt="Spring Boot" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/6a3c4ab9-8bfe-42d1-bc5d-5fe770e11f51" style="height: 60px">
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" style="height: 60px">
-  </br>
   <img src ="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="height: 60px">
+  
+  </br>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/06851a6c-5780-4b9c-b89d-af3b4e605636" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 60px">
   <img src ="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" style="height: 60px">
